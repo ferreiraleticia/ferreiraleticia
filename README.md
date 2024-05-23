@@ -2,7 +2,7 @@
 
 Meu nome é Leticia Ferreira
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem de JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,5 @@ Meu nome é Leticia Ferreira
 
 - @leticiaferreira
 
-![]()
-https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
+
